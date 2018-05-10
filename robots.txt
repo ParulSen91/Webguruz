@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /*?*
+Disallow: /addrena
+Disallow: /parramattadentalavenue
+Disallow: /project
+Disallow: /author
+
+Allow: /wp-admin/css/color-picker.min.css
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.webguruz.in/sitemap.xml

@@ -1,0 +1,121 @@
+[18-Oct-2017 02:03:08 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:03:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:03:08 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 02:03:31 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:03:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:03:31 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 02:17:00 UTC] PHP Notice:  Undefined variable: dupliket_key in /home/proglasscpanel/webguruz.in/reporting.php on line 39
+[18-Oct-2017 02:17:00 UTC] PHP Notice:  Undefined variable: dupliket_key in /home/proglasscpanel/webguruz.in/reporting.php on line 39
+[18-Oct-2017 02:25:19 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:25:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:25:19 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 02:25:22 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:25:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:25:22 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 02:25:34 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:25:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:25:34 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 02:51:21 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:51:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:51:21 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 02:51:31 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:51:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 02:51:31 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 03:02:27 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 03:02:37 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 03:02:45 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 03:02:53 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 03:02:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 03:02:53 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 03:04:45 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 04:35:05 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 04:35:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 04:35:05 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 05:42:44 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 05:42:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 05:42:44 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 07:33:59 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:33:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:33:59 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 07:34:08 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:34:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:34:08 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 07:34:09 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:34:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:34:09 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 07:34:10 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:34:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:34:10 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 07:34:10 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:34:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:34:10 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 07:34:11 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:34:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:34:11 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 07:34:11 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:34:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:34:11 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 07:36:49 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:36:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:36:49 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 07:36:57 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:36:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:36:57 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 07:36:58 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:36:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:36:58 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 07:37:05 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:37:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:37:05 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 07:37:05 UTC] PHP Notice:  Undefined variable: dataproperty in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:37:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proglasscpanel/webguruz.in/reporting.php on line 32
+[18-Oct-2017 07:37:05 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 07:48:06 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 19:19:48 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[18-Oct-2017 19:19:57 UTC] PHP Notice:  Undefined variable: n_arr in /home/proglasscpanel/webguruz.in/reporting.php on line 51
+[19-Oct-2017 23:12:49 UTC] PHP Notice:  Undefined variable: dupliket_key in /home/proglasscpanel/webguruz.in/reporting.php on line 39
+[24-Oct-2017 13:04:23 UTC] PHP Notice:  Undefined index: data in /home/proglasscpanel/webguruz.in/convert.php on line 2
+[24-Oct-2017 13:04:23 UTC] PHP Notice:  Undefined index: a in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:04:23 UTC] PHP Notice:  Undefined index: from in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:04:23 UTC] PHP Notice:  Undefined index: to in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:07:13 UTC] PHP Notice:  Undefined index: data in /home/proglasscpanel/webguruz.in/convert.php on line 2
+[24-Oct-2017 13:07:13 UTC] PHP Notice:  Undefined index: a in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:07:13 UTC] PHP Notice:  Undefined index: from in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:07:13 UTC] PHP Notice:  Undefined index: to in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:07:30 UTC] PHP Notice:  Undefined index: data in /home/proglasscpanel/webguruz.in/convert.php on line 2
+[24-Oct-2017 13:07:30 UTC] PHP Notice:  Undefined index: a in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:07:30 UTC] PHP Notice:  Undefined index: from in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:07:30 UTC] PHP Notice:  Undefined index: to in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:07:46 UTC] PHP Notice:  Undefined index: data in /home/proglasscpanel/webguruz.in/convert.php on line 2
+[24-Oct-2017 13:07:46 UTC] PHP Notice:  Undefined index: a in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:07:46 UTC] PHP Notice:  Undefined index: from in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:07:46 UTC] PHP Notice:  Undefined index: to in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:08:12 UTC] PHP Notice:  Undefined index: data in /home/proglasscpanel/webguruz.in/convert.php on line 2
+[24-Oct-2017 13:08:12 UTC] PHP Notice:  Undefined index: a in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:08:12 UTC] PHP Notice:  Undefined index: from in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:08:12 UTC] PHP Notice:  Undefined index: to in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:08:36 UTC] PHP Notice:  Undefined index: data in /home/proglasscpanel/webguruz.in/convert.php on line 2
+[24-Oct-2017 13:08:36 UTC] PHP Notice:  Undefined index: a in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:08:36 UTC] PHP Notice:  Undefined index: from in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:08:36 UTC] PHP Notice:  Undefined index: to in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:09:58 UTC] PHP Notice:  Undefined index: data in /home/proglasscpanel/webguruz.in/convert.php on line 2
+[24-Oct-2017 13:09:58 UTC] PHP Notice:  Undefined index: a in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:09:58 UTC] PHP Notice:  Undefined index: from in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:09:58 UTC] PHP Notice:  Undefined index: to in /home/proglasscpanel/webguruz.in/convert.php on line 3
+[24-Oct-2017 13:11:12 UTC] PHP Notice:  Undefined index: data in /home/proglasscpanel/webguruz.in/convert.php on line 4
+[24-Oct-2017 13:11:12 UTC] PHP Notice:  Undefined index: a in /home/proglasscpanel/webguruz.in/convert.php on line 5
+[24-Oct-2017 13:11:12 UTC] PHP Notice:  Undefined index: from in /home/proglasscpanel/webguruz.in/convert.php on line 5
+[24-Oct-2017 13:11:12 UTC] PHP Notice:  Undefined index: to in /home/proglasscpanel/webguruz.in/convert.php on line 5
+[24-Oct-2017 13:12:19 UTC] PHP Notice:  Undefined index: data in /home/proglasscpanel/webguruz.in/convert.php on line 4
+[29-Oct-2017 22:29:12 UTC] PHP Notice:  Undefined variable: dupliket_key in /home/proglasscpanel/webguruz.in/reporting.php on line 39
+[29-Oct-2017 22:32:22 UTC] PHP Notice:  Undefined variable: dupliket_key in /home/proglasscpanel/webguruz.in/reporting.php on line 39
+[05-Nov-2017 23:45:40 UTC] PHP Notice:  Undefined variable: dupliket_key in /home/proglasscpanel/webguruz.in/reporting.php on line 39
+[05-Nov-2017 23:46:38 UTC] PHP Notice:  Undefined variable: dupliket_key in /home/proglasscpanel/webguruz.in/reporting.php on line 39
+[12-Nov-2017 07:16:19 UTC] PHP Notice:  Undefined variable: dupliket_key in /home/proglasscpanel/webguruz.in/reporting.php on line 39
+[13-Nov-2017 00:18:49 UTC] PHP Notice:  Undefined variable: dupliket_key in /home/proglasscpanel/webguruz.in/reporting.php on line 39
+[17-Nov-2017 10:05:49 UTC] PHP Fatal error:  Call to a member function get_status() on null in /home/proglasscpanel/webguruz.in/wp-content/plugins/contact-form-7/includes/contact-form.php on line 656
+[19-Nov-2017 22:57:31 UTC] PHP Notice:  Undefined variable: dupliket_key in /home/proglasscpanel/webguruz.in/reporting.php on line 39
+[23-Nov-2017 08:19:26 UTC] PHP Notice:  Undefined variable: dupliket_key in /home/proglasscpanel/webguruz.in/reporting.php on line 39
+[23-Nov-2017 08:21:52 UTC] PHP Notice:  Undefined variable: dupliket_key in /home/proglasscpanel/webguruz.in/reporting.php on line 39
+[07-Dec-2017 07:08:11 UTC] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/proglasscpanel/webguruz.in/wp-content/themes/dt-the7/shechdulecall_page.php on line 195
+[07-Dec-2017 07:08:11 UTC] PHP Warning:  file_get_contents(http://ip-api.com/json/77.67.54.6): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/proglasscpanel/webguruz.in/wp-content/themes/dt-the7/shechdulecall_page.php on line 195

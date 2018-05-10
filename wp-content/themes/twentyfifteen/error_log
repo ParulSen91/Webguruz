@@ -1,0 +1,4 @@
+[26-Nov-2017 07:37:46 UTC] PHP Fatal error:  Call to undefined function _e() in /home/proglasscpanel/webguruz.in/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[26-Nov-2017 07:58:25 UTC] PHP Fatal error:  Call to undefined function _e() in /home/proglasscpanel/webguruz.in/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[26-Nov-2017 08:03:34 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/proglasscpanel/webguruz.in/wp-content/themes/twentyfifteen/footer.php on line 23
+[26-Nov-2017 08:12:25 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/proglasscpanel/webguruz.in/wp-content/themes/twentyfifteen/404.php on line 10

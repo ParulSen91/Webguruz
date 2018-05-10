@@ -1,0 +1,17 @@
+FTP:- http://202.164.49.132:4040/webguruz
+ ftp user : webguruzftpuser
+ ftp pass : UC5;bI+;64l4=3V
+ Db:- link: http://192.168.0.80:4001
+ username: webguruzdb
+ username: webguruzdb
+ pass : rf52S78fT3915Hc
+ FTP Live: 192.168.0.80
+ phpMyAdmin: http://192.168.0.80:4001
+
+  WP Detail:-
+ User: webguruz
+ Pass: ref)43@31^b@!fdq)(!@21
+ new pass: rf52S78fT3915Hc
+
+
+<img class="wp-image-1453 size-full" src="http://gmdietmagic.com/wp-content/uploads/2016/Sept/home.jpg" alt="">

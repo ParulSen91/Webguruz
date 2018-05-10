@@ -1,0 +1,12 @@
+.active {
+    background: #999 none repeat scroll 0 0;
+    color: #fff;
+    padding: 1px 6px;
+}
+#number_foot > a {
+  padding: 0 5px;
+}
+#form2 #number_foot {
+  margin: 5px 0;
+  padding: 6px 1px;
+}

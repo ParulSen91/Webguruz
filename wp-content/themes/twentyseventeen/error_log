@@ -1,0 +1,2 @@
+[22-Oct-2017 05:08:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/proglasscpanel/webguruz.in/wp-content/themes/twentyseventeen/404.php on line 13
+[27-Nov-2017 04:47:58 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/proglasscpanel/webguruz.in/wp-content/themes/twentyseventeen/404.php on line 13
